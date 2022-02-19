@@ -12,6 +12,13 @@ NFT Collection URL : Opensea and rarible.
 [Opensea Vignesh NFT](https://testnets.opensea.io/0xd8639252492bde22b395807c842b3ac86cb701c3)
 
 
+![alt text](https://github.com/vickycj/LimitedEditionNftContract/blob/master/opensea.png?raw=true)
+
+
+
 ## Rarible Testnet Link
 [Rarible Vignesh NFT](https://rinkeby.rarible.com/token/0xad5ca872f92a8c789c13e2487251de2849173bb1:1?tab=details)
+
+
+![alt text](https://github.com/vickycj/LimitedEditionNftContract/blob/master/rarible.png?raw=true)
 
